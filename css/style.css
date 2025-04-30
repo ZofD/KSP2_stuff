@@ -1,0 +1,32 @@
+/* .select2-results__option--selectable, 
+.select2-search--dropdown, 
+.select2-selection__rendered,
+.select2-selection__placeholder {
+    background-color: rgb(29 32 43);
+    color: whitesmoke!important;
+} */
+
+.container-xxl {
+    color: whitesmoke;
+    background-color: darkblue;
+}
+
+.accordion-item {
+    color: whitesmoke!important;
+    background-color: rgba(0,0,0,0.3)!important;
+}
+
+.accordion-item img {
+    float: left;
+    width: 100%;
+    max-width: 300px;
+    margin-right: var(--bs-accordion-body-padding-y);
+}
+
+.accordion-header, .accordion-button {
+    background-color: rgba(240,240,240,0.2)!important;
+}
+
+.accordion {
+    border-color: black!important;
+}
